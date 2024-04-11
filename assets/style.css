@@ -1,8 +1,10 @@
+
 * {
     margin: 0;
     padding: 0;
 }
-header,
+html { background: url('GoldenGateBridge-001.jpg') no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
+/header,
 footer {
     width: 100%;
     height: 120px;
@@ -11,6 +13,9 @@ footer {
 }
 h1,
 h2 {
+    text-align: center;
+}
+h3 {
     text-align: center;
 }
 img {
@@ -33,6 +38,7 @@ p {
   margin: 40px auto;
   border: 5px solid gray;
   box-shadow: 5px 10px #888888;
+  background-color: white;
 }
 .card {
     width: 80%;
