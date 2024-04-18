@@ -18,6 +18,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-I created this as a project from the pre-work for the UC Berkeley Extension Full Stack Web Developer bootcamp. I've continued to add information to the document as I've continued to learn throughout the bootcamp. 
+I created this as a project from the pre-work for the UC Berkeley Extension Full Stack Web Developer bootcamp. I've continued to add information to the document as I've continued to learn throughout the bootcamp. I tend to refer to it from time to time as well, particulary when it comes to Git. 
 
 
